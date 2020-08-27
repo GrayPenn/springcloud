@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d846534f-6b71-47b4-98ae-77378ad05b15" name="Default Changelist" comment="" />
+    <list default="true" id="d846534f-6b71-47b4-98ae-77378ad05b15" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,6 +13,14 @@
   <component name="Git.Settings">
     <option name="ADD_SUFFIX_TO_CHERRY_PICKS_OF_PUBLISHED_COMMITS" value="false" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="MERGE" />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
@@ -24,6 +35,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1gdXKKSJ01yGBwqBuvmuINZEzjz" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -31,6 +43,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="project.structure.last.edited" value="Libraries" />
@@ -63,21 +76,45 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598445377692</updated>
-      <workItem from="1598445380806" duration="3002000" />
+      <workItem from="1598445380806" duration="3240000" />
     </task>
+    <task id="LOCAL-00001" summary="springcloud学习">
+      <created>1598527373533</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1598527373533</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="springcloud学习" />
+    <option name="LAST_COMMIT_MESSAGE" value="springcloud学习" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="2785" y="-177" key="CommitChangelistDialog2" timestamp="1598527373378">
+      <screen x="1792" y="-541" width="2560" height="1417" />
+    </state>
+    <state x="2785" y="-177" key="CommitChangelistDialog2/1792.-541.2560.1417/0.23.1792.1047@1792.-541.2560.1417" timestamp="1598527373378" />
     <state x="2990" y="143" key="Github.CreateGistDialog" timestamp="1598527229947">
       <screen x="1792" y="-541" width="2560" height="1417" />
     </state>
     <state x="2990" y="143" key="Github.CreateGistDialog/1792.-541.2560.1417/0.23.1792.1047@1792.-541.2560.1417" timestamp="1598527229947" />
+    <state x="3045" y="121" key="Github.ShareDialog" timestamp="1598527540884">
+      <screen x="1792" y="-541" width="2560" height="1417" />
+    </state>
+    <state x="3045" y="121" key="Github.ShareDialog/1792.-541.2560.1417/0.23.1792.1047@1792.-541.2560.1417" timestamp="1598527540884" />
     <state x="2332" y="-443" key="SettingsEditor" timestamp="1598527214538">
       <screen x="1792" y="-541" width="2560" height="1417" />
     </state>
     <state x="2332" y="-443" key="SettingsEditor/1792.-541.2560.1417/0.23.1792.1047@1792.-541.2560.1417" timestamp="1598527214538" />
+    <state x="2979" y="144" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1598527375097">
+      <screen x="1792" y="-541" width="2560" height="1417" />
+    </state>
+    <state x="2979" y="144" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/1792.-541.2560.1417/0.23.1792.1047@1792.-541.2560.1417" timestamp="1598527375097" />
   </component>
 </project>
