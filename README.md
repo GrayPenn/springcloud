@@ -30,6 +30,8 @@
 - cloud-provider-payment8004 : 生产者集群模式 向 zookeeper 注册中心注册服务
 - cloud-providerconsul-payment8006 : 生产者 向 consul 注册中心注册服务
 - cloud-steam-rabbitmq-provider8801 : steam rabbitmq生产者端 
+- cloud-steam-rabbitmq-consumer8802 : steam rabbitmq消费端 配置 group 解决持久化、消息重复问题
+- cloud-steam-rabbitmq-consumer8803 : steam rabbitmq消费端集群 
 - 
 - 
 - 
